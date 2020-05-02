@@ -1,0 +1,99 @@
+# Vidange Moteur
+
+Faire tourner le véhicule avant de faire la vidange pour faire monter un peu l'huile en T°C afin de la fluidifier (laisser tourner à l'arrêt)
+
+### Pièces
+
+- Huile Castrol 10W60 : 6L (5.5L)
+- Kit Filtre huile (filtre + 3 joints): 11 42 7 833 769
+- ~Joint 1 : 11 42 1 741 000~
+- ~Joint 2 : 07 11 9 963 080~
+- ~Joint 3 : 11 42 1 711 076~
+- Vis de vidange : 07 11 9 904 550
+  - Le joint cuivre de la vis de vidange est dans le kit
+
+### Outils
+
+- Bac de vidange
+- Clef/Douille de 13mm
+- BTR 6mm
+- Clé dynamo
+
+### Procédure
+
+Retirer le cache plastique
+
+![vidange_1](/pictures/vidange_1.jpg)
+
+Vous trouverez la vis de vidange : BTR 6mm
+
+![vidange_2](/pictures/vidange_2.jpg)
+
+Mettre un bac de vidange et dévisser la vis de vidange
+
+![vidange_3](/pictures/vidange_3.jpg)
+
+Ouvrir le capot et s'occuper des filtres pendant que l'huile s'écoule tranquillement.
+
+Enlever le connecteur de la rampe papillon et dévisser l'écrou avec une clef de 13 pour accéder au filtre à huile
+
+![vidange_4](/pictures/vidange_4.jpg)
+
+Nettoyer le récéptacle du filtre à huile
+
+![vidange_5](/pictures/vidange_5.jpg)
+![vidange_6](/pictures/vidange_6.jpg)
+
+Remplacer les 3 joints en lubrifiant les joints 1 et 3 avec de l'huile
+
+![vidange_7](/pictures/vidange_7.jpg)
+
+retourner sous la voiture et refermer avec la nouvelle vis de vidange et son joint (ne pas serrer trop fort les filetages sont assez fragiles) puis remettre le cache plastique
+
+![vidange_8](/pictures/vidange_8.jpg)
+
+Mettre le nouveau filtre à huile en place et rajouter un peu d'huile puis refermer
+**NE PAS METTRE D'HUILE DANS L'ORIFICE CENTRAL**
+
+![vidange_9](/pictures/vidange_9.jpg)
+
+**Avant de refaire le plein d'huile, changer le [filtre Vanos](#filtre-vanos)**
+
+Mettre 5.5L d'huile
+
+![vidange_12](/pictures/vidange_12.jpg)
+
+Faire tourner le moteur 5sec afin de remplir le circuit d'huile puis faire l'appoint avec la jauge
+
+### Remise à zéro du compteur de maintenance
+
+- Maintenir le bouton gauche enfoncé puis mettre la clef de contact en position 1
+- Attendre environ 15 secondes jusqu'à ce que "RESET" s'affiche
+- Relâcher le bouton et appuyer de nouveau 15 secondes, 25 000km doit s'afficher
+- Relâcher le bouton et appuyer de nouveau très brievement
+
+# Filtre Vanos
+
+### Pièces
+
+- Kit filtre Vanos (Filtre + 2 joints) : 11 36 1 401 971
+
+### Outils
+
+- Douille de 22mm
+- Clé dynamo
+
+### Procédure
+
+Sortir l'ensemble filtre
+
+![vidange_10](/pictures/vidange_10.jpg)
+
+Changer le filtre et les 2 joints toriques
+
+![vidange_11](/pictures/vidange_11.jpg)
+
+**Manque le couple de serrage**
+
+
+[Retour](/README.mkd)

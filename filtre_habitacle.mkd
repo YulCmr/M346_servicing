@@ -1,0 +1,19 @@
+# Filtre habitacle
+
+### Pièces
+
+ - Filtre à habitacle : 64 31 9 257 504
+
+### Procédure
+
+Tourner d'1/4 de tour les trois pièces en plastique
+
+![filtre_habitacle_1](/pictures/filtre_habitacle_1.jpg)
+
+Enlever le cache plastique et tirer le filtre
+
+![filtre_habitacle_2](/pictures/filtre_habitacle_2.jpg)
+
+Changer le filtre et réaliser l'opération inverse
+
+[Retour](/README.mkd)

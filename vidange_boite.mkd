@@ -1,0 +1,37 @@
+# Vidange boite (SMG & Meca)
+
+### Pièces
+
+ - Huile MTF-LT2 : 2L (1.8L)
+
+### Outils
+
+- Seringue 1L
+- Clef/Douille 17mm
+
+### Procédure
+
+La vis inférieure est la vis de vidange et la vis du dessus est la vis de niveau.
+Le remplissage de la boite se fait par excédent grâce à la vis de niveau.
+
+![vidange_boite_1](/pictures/vidange_boite_1.jpg)
+
+On passe sous la voiture, on enlève le cache en plastique maintenu par des vis de 8. On doit se retrouver avec ça
+
+![vidange_boite_2](/pictures/vidange_boite_2.jpg)
+
+Dans un premier temps on place un petit bac de vidange sous la boîte et à l'aide d'une clef plate de 17, **on dévisse la vis de niveau en premier**. En effet, si on vidange et que cette vis n'est pas dévissable on ne pourra pas remplir de nouveau la boite.
+
+Dans un deuxième temps on dévisse la vis de vidange et on laisse bien la boîte se vidanger, c'est un petit peu long.
+
+Une fois que l'huile s'est bien écoulée on remet la vis de vidange (couple de serrage 50 Nm).
+
+On remplit la seringue avec l'huile et on procède au remplissage
+
+![vidange_boite_3](/pictures/vidange_boite_3.jpg)
+
+On commence par mettre 2L puis on remplit doucement jusqu'à ce qu'il y ai un débordement par l'orifice de remplissage. **Il faut que le véhicule soit de niveau pour que le remplissage soit juste**. Une fois que celle-ci coule on replace le bouchon de remplissage (couple de serrage 50 Nm).
+
+On nettoie les traces d'huile à l'aide de nettoyant frein et on replace le cache plastique
+
+[Retour](/README.mkd)

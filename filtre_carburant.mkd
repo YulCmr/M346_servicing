@@ -1,0 +1,37 @@
+# Filtre carburant
+
+### Pièces
+
+ - Filtre carburant : 13 32 7 831 089
+
+### Outils
+
+ - Seringue 1L
+ - Douille 8mm
+ - Douille 10mm
+ - Clef de 19
+ - Clef de 24
+
+### Procédure
+
+Le filtre à carburant se trouve sous la voiture, sous le siège conducteur
+
+![filtre_carburant_1](/pictures/filtre_carburant_1.jpg)
+
+Sous la voiture on trouve le cache
+
+![filtre_carburant_2](/pictures/filtre_carburant_2.jpg)
+
+A l'aide d'une douille de 8 et de 10 on enlève le cache et on trouve le filtre à carburant
+
+![filtre_carburant_3](/pictures/filtre_carburant_3.jpg)
+
+Pour avoir accès au filtre dévisser le collier métallique qui le maintient en position (douille de 10 ?).
+
+Pour le défaire, côté réservoir c'est une fixation rapide , il faut repousser le petit plastique et tirer pour débrancher la durite.
+
+Mettez une petite bassine pour récupérer le peu d'essence qui va couler ou rebranchez directement votre nouveau filtre (attention au sens) en laissant le bouchon à l'autre extrémité.
+
+De l'autre côté dévisser le filtre de la vanne de régulation (clef de 19 sur le filtre , 24 sur le carré du régulateur) et remonter le nouveau filtre en oubliant pas de remettre le petit joint métallique, puis remonter.
+
+**Lors du démarrage le moteur va être long à se lancer , il faudra peut être mettre deux coups de démarreur , il est possible d'avoir quelque soubresauts pendant les 5 à 10 premières secondes de fonctionnement , rien de grave**

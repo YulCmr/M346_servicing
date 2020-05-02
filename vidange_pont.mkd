@@ -1,0 +1,28 @@
+# Vidange pont
+
+### Pièces
+
+ - Huile Castrol SAF-XJ 75W140 : 2L (1.1L)
+
+### Outils
+
+- Seringue 1L
+- BTR 12mm ou 14mm selon l'année de production
+
+### Procédure
+
+Au niveau du pont, on trouve deux bouchons, le plus bas pour la vidange le plus haut pour le remplissage.
+
+![vidange_pont_1](/pictures/vidange_pont_1.jpg)
+
+Voiture à plat, on dévisse celui du bas, l'huile tombe, une odeur bien spécifique se ferra sentir.
+
+Quand l'huile à fini de coulé, on revisse le bouchon du bas (pas de joint ni pate) et on dévisse le bouchon du dessus.
+
+A l'aide d'un seringue on met l'huile. Quand un léger film d'huile déborde du trou le niveau est fait, on ferme tout.
+
+**Manque les couples de serrage**
+
+50Nm ?
+
+[Retour](/README.mkd)
