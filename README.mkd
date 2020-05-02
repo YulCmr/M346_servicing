@@ -41,7 +41,7 @@ Ces entretiens sont destinés à une une voiture de route, pas à une utilisatio
 
 Coussinets conseillés tous les 100 000kms
 
-## Exemple de Pplan entretien à partir de 100 000kms
+## Exemple de plan d'entretien à partir de 100 000kms
 
 | Kilométrage | Entretien               |
 |-------------|-------------------------|
