@@ -95,7 +95,9 @@ Changer le filtre et les 2 joints toriques
 
 ![vidange_11](/pictures/vidange_11.jpg)
 
-**Manque le couple de serrage**
+Couple de serrage : 27Nm
+
+[Video DIY ECS](https://youtu.be/j2UO30-2AdY)
 
 
 [Retour](/README.mkd)
