@@ -1,12 +1,22 @@
 # Vidange pont
 
+Faites un petit tour pour chauffer la voiture et donc l'huile du pont, ça facilitera la vidange complète du pont.
+
 ### Pièces
 
  - Huile Castrol SAF-XJ 75W140 : 2L (1.1L)
+ - OU SAF-XJ 75w140 + FM Booster (E9x M3) : 83222282583 1.5L (1.1L)
+
+Selon votre modèle vous pouvez avoir des bouchons en 12 ou 14mm, avec un joint en cuivre ou un joint en caoutchouc. Il peut être bien de dévisser le bouchon de remplissage une première fois afin de vérifier quels joints commander.
+
+ - Joint en cuivre : 07119963355
+ - Joint caoutchouc : **à trouver**
+ - Bouchon + join caoutchouc : 33117525064
+
 
 ### Outils
 
-- Seringue 1L
+- Seringue 1L ou pompe
 - BTR 12mm ou 14mm selon l'année de production
 
 ### Procédure
@@ -15,14 +25,16 @@ Au niveau du pont, on trouve deux bouchons, le plus bas pour la vidange le plus 
 
 ![vidange_pont_1](/pictures/vidange_pont_1.jpg)
 
+Comme pour la boite on dévisse d'abord le bouchon de remplissage (en haut) pour être certain de pouvoir re-remplir le pont après vidange
+
 Voiture à plat, on dévisse celui du bas, l'huile tombe, une odeur bien spécifique se ferra sentir.
 
-Quand l'huile à fini de coulé, on revisse le bouchon du bas (pas de joint ni pate) et on dévisse le bouchon du dessus.
+Quand l'huile à fini de coulé (30-45mn), on revisse le bouchon du bas en ajoutant un nouveau joint cuivre, ou
 
 A l'aide d'un seringue on met l'huile. Quand un léger film d'huile déborde du trou le niveau est fait, on ferme tout.
 
-**Manque les couples de serrage**
-
-50Nm ?
+Couple de serrage :
+- 60 Nm si joints en caoutchouc
+- 65 Nm si joints en cuivre
 
 [Retour](/README.mkd)
