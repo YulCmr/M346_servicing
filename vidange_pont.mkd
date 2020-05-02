@@ -18,18 +18,23 @@ Selon votre modèle vous pouvez avoir des bouchons en 12 ou 14mm, avec un joint 
 
 - Seringue 1L ou pompe
 - BTR 12mm ou 14mm selon l'année de production
+- clé dynamo
 
 ### Procédure
 
 Au niveau du pont, on trouve deux bouchons, le plus bas pour la vidange le plus haut pour le remplissage.
 
-![vidange_pont_1](/pictures/vidange_pont_1.jpg)
-
 Comme pour la boite on dévisse d'abord le bouchon de remplissage (en haut) pour être certain de pouvoir re-remplir le pont après vidange
 
-Voiture à plat, on dévisse celui du bas, l'huile tombe, une odeur bien spécifique se ferra sentir.
+![vidange_pont_2](/pictures/vidange_pont_2.jpg)
 
-Quand l'huile à fini de coulé (30-45mn), on revisse le bouchon du bas en ajoutant un nouveau joint cuivre, ou
+Voiture à plat, on dévisse celui du bas.
+
+![vidange_pont_3](/pictures/vidange_pont_3.jpg)
+
+Quand l'huile à fini de coulé (30-45mn), on revisse le bouchon du bas en ajoutant un nouveau joint.
+
+![vidange_pont_4](/pictures/vidange_pont_4.jpg)
 
 A l'aide d'un seringue on met l'huile. Quand un léger film d'huile déborde du trou le niveau est fait, on ferme tout.
 
