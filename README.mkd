@@ -1,7 +1,7 @@
 # M346_servicing
 Servicing guide for E46 M3
 
-Thie following guide will be written in French. English version may follow if there's a lot of requests but I assume google trad can do the job.
+This following guide will be written in French. English version may follow if there's a lot of requests but I assume google trad can do the job.
 
 ## Intervales des entretiens
 
