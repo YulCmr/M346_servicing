@@ -50,6 +50,8 @@ Remplacer les 3 joints en lubrifiant les joints 1 et 3 avec de l'huile
 
 retourner sous la voiture et refermer avec la nouvelle vis de vidange et son joint (ne pas serrer trop fort les filetages sont assez fragiles) puis remettre le cache plastique
 
+**Manque le couple de serrage**
+
 ![vidange_8](/pictures/vidange_8.jpg)
 
 Mettre le nouveau filtre à huile en place et rajouter un peu d'huile puis refermer
