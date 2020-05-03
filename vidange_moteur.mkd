@@ -4,13 +4,15 @@ Faire tourner le véhicule avant de faire la vidange pour faire monter un peu l'
 
 ### Pièces
 
-- Huile Castrol 10W60 : 6L (5.5L)
-- Kit Filtre huile (filtre + 3 joints): 11 42 7 833 769
+- Huile Castrol 10W60 : 6L (5.5L) (80€)
+- Kit Filtre huile (filtre + 3 joints): 11 42 7 833 769 (6€)
 - ~Joint 1 : 11 42 1 741 000~
 - ~Joint 2 : 07 11 9 963 080~
 - ~Joint 3 : 11 42 1 711 076~
-- Vis de vidange : 07 11 9 904 550
+- Vis de vidange : 07 11 9 904 550 (3€)
   - Le joint cuivre de la vis de vidange est dans le kit
+
+Coût Total 90€
 
 ### Outils
 
@@ -79,6 +81,10 @@ Faire tourner le moteur 5sec afin de remplir le circuit d'huile puis faire l'app
 ### Pièces
 
 - Kit filtre Vanos (Filtre + 2 joints) : 11 36 1 401 971
+- Joint 1 : 11 31 1 318 659
+- Joint 2 : 11 36 1 403 325
+
+Coût total : 30€
 
 ### Outils
 
