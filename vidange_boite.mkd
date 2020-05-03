@@ -2,12 +2,12 @@
 
 ### Pièces
 
- - Huile MTF-LT2 : 2L (1.8L)
+ - Huile MTF-LT2 : 2L (1.8L) (60€)
 
 ### Outils
 
 - Seringue 1L
-- Clef/Douille 17mm
+- Clef/Douille 17mm + 8mm
 
 ### Procédure
 
@@ -16,9 +16,14 @@ Le remplissage de la boite se fait par excédent grâce à la vis de niveau.
 
 ![vidange_boite_1](/pictures/vidange_boite_1.jpg)
 
-On passe sous la voiture, on enlève le cache en plastique maintenu par des vis de 8. On doit se retrouver avec ça
+On passe sous la voiture, on enlève le cache en plastique maintenu par des vis de 8.
 
-![vidange_boite_2](/pictures/vidange_boite_2.jpg)
+![vidange_boite_4](/pictures/vidange_boite_4.jpg)
+![vidange_boite_5](/pictures/vidange_boite_5.jpg)
+
+On doit se retrouver avec ça
+
+![vidange_boite_6](/pictures/vidange_boite_6.jpg)
 
 Dans un premier temps on place un petit bac de vidange sous la boîte et à l'aide d'une clef plate de 17, **on dévisse la vis de niveau en premier**. En effet, si on vidange et que cette vis n'est pas dévissable on ne pourra pas remplir de nouveau la boite.
 
