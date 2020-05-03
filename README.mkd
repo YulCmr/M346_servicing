@@ -45,9 +45,13 @@ Coussinets conseillés tous les 100 000kms
 
 Version Pre Alpha, certains prix et tutos manquent encore.
 
+![generateur_1](/pictures/generateur_1.jpg)
+
 [Générateur Entretien](https://github.com/YulCmr/M346_servicing/raw/master/plan_entretien_M346.exe)
 
 Pour en faire un pdf, ouvrir le fichier généré "plan_entretien.md" avec l'application [Typora](https://typora.io/#windows) et extraire vers pdf : File -> Export -> PDF
+
+![generateur_2](/pictures/generateur_2.jpg)
 
 ## Exemple de plan d'entretien à partir de 100 000kms
 
