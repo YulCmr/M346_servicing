@@ -1,0 +1,30 @@
+# Filtre à air
+
+### Pièces
+
+ - Filtre à air : 13 72 1 730 946 (15€)
+
+### Outils
+
+- Seringue 1L
+- Clef/Douille 17mm + 8mm
+
+### Procédure
+
+On démonte l'alimentation en air frais sur la face avant. Elle est tenue par 4 petits clips en plastiques (une rondelle en plastique avec une tige en plastique au centre, avec une pince a bec fin tirer sur la tige pour les enlever).
+
+![filtre_air_1](/pictures/filtre_air_1.jpg)
+
+On dévisse les deux colliers qui tiennent le manchon qui relie la boite à air au collecteur d'admission
+
+On déclipse les deux petites languettes en métal de la boite à air, on ouvre la boite à air et on retire le filtre
+
+![filtre_air_2](/pictures/filtre_air_2.jpg)
+
+On en profite pour bien nettoyer l'intérieur à l'aide de nettoyant frein, d'une soufflette et de chiffons.
+
+![filtre_air_3](/pictures/filtre_air_3.jpg)
+
+Puis on remonte le filtre neuf et on fait la manœuvre inverse
+
+[Retour](/README.mkd)
