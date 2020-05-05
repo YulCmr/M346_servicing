@@ -68,5 +68,3 @@ Pour en faire un pdf, ouvrir le fichier généré "plan_entretien.md" avec l'app
 | 180 000     |  [Vidange moteur + Filtre Vanos](/vidange_moteur.mkd)<br>[Filtre habitacle](/filtre_habitacle.mkd)<br>Prise de compression<br>[Filtre carburant](/filtre_carburant.mkd)<br>Liquide de frein<br>Filtre à air|
 | 190 000     |  [Vidange moteur + Filtre Vanos](/vidange_moteur.mkd)<br>[Filtre habitacle](/filtre_habitacle.mkd)<br>Prise de compression<br>[Filtre carburant](/filtre_carburant.mkd)<br>Liquide de refroidissement|
 | 200 000     |  [Vidange moteur + Filtre Vanos](/vidange_moteur.mkd)<br>[Filtre habitacle](/filtre_habitacle.mkd)<br>Prise de compression<br>[Filtre carburant](/filtre_carburant.mkd)<br>Bougies<br>[Vidange boite](/vidange_boite.mkd)<br>[Vidange pont](/vidange_pont.mkd)<br>Réglage jeu de soupape<br>Liquide de frein<br>Filtre à air|
-
-[![Analytics](https://ga-beacon.appspot.com/UA-81911322-2/readme)](https://github.com/igrigorik/ga-beacon)
