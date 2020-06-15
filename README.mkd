@@ -41,6 +41,14 @@ Ces entretiens sont destinés à une une voiture de route, pas à une utilisatio
 
 Coussinets conseillés tous les 100 000kms
 
+## Docs et Manuels
+
+[Tous couples de serrage (English)](e46_m3_torque_spec_guide.pdf)
+
+[Manuel utilisateur coupé (English)](BMW-E46-Pre-LCI-M3-Coupe-owners-manual.pdf)
+
+[Manuel utilisateur cabriolet (English)](BMW-E46-LCI-M3-Convertible-owners-manual.pdf)
+
 ## Générateur de plan d'entretien
 
 Version Pre Alpha, certains prix et tutos manquent encore.
@@ -52,19 +60,3 @@ Version Pre Alpha, certains prix et tutos manquent encore.
 Pour en faire un pdf, ouvrir le fichier généré "plan_entretien.md" avec l'application [Typora](https://typora.io/#windows) et extraire vers pdf : File -> Export -> PDF
 
 ![generateur_2](/pictures/generateur_2.jpg)
-
-## Exemple de plan d'entretien à partir de 100 000kms
-
-| Kilométrage | Entretien               |
-|-------------|-------------------------|
-| 100 000     |  [Filtre carburant](/filtre_carburant.mkd)<br>Bougies<br>[Vidange boite](/vidange_boite.mkd)<br>[Vidange pont](/vidange_pont.mkd)<br>Réglage jeu de soupape<br>Liquide de frein<br>Filtre à air<br>Liquide de refroidissement|
-| 110 000     |  [Vidange moteur + Filtre Vanos](/vidange_moteur.mkd)<br>[Filtre habitacle](/filtre_habitacle.mkd)<br>Prise de compression<br>[Filtre carburant](/filtre_carburant.mkd)|
-| 120 000     |  [Vidange moteur + Filtre Vanos](/vidange_moteur.mkd)<br>[Filtre habitacle](/filtre_habitacle.mkd)<br>Prise de compression<br>[Filtre carburant](/filtre_carburant.mkd)<br>Liquide de frein<br>Filtre à air|
-| 130 000     |  [Vidange moteur + Filtre Vanos](/vidange_moteur.mkd)<br>[Filtre habitacle](/filtre_habitacle.mkd)<br>Prise de compression<br>[Filtre carburant](/filtre_carburant.mkd)<br>Liquide de refroidissement|
-| 140 000     |  [Vidange moteur + Filtre Vanos](/vidange_moteur.mkd)<br>[Filtre habitacle](/filtre_habitacle.mkd)<br>Prise de compression<br>[Filtre carburant](/filtre_carburant.mkd)<br>Liquide de frein<br>Filtre à air|
-| 150 000     |  [Vidange moteur + Filtre Vanos](/vidange_moteur.mkd)<br>[Filtre habitacle](/filtre_habitacle.mkd)<br>Prise de compression<br>[Filtre carburant](/filtre_carburant.mkd)<br>Bougies<br>[Vidange boite](/vidange_boite.mkd)<br>[Vidange pont](/vidange_pont.mkd)<br>Réglage jeu de soupape|
-| 160 000     |  [Vidange moteur + Filtre Vanos](/vidange_moteur.mkd)<br>[Filtre habitacle](/filtre_habitacle.mkd)<br>Prise de compression<br>[Filtre carburant](/filtre_carburant.mkd)<br>Liquide de frein<br>Filtre à air<br>Liquide de refroidissement|
-| 170 000     |  [Vidange moteur + Filtre Vanos](/vidange_moteur.mkd)<br>[Filtre habitacle](/filtre_habitacle.mkd)<br>Prise de compression<br>[Filtre carburant](/filtre_carburant.mkd)|
-| 180 000     |  [Vidange moteur + Filtre Vanos](/vidange_moteur.mkd)<br>[Filtre habitacle](/filtre_habitacle.mkd)<br>Prise de compression<br>[Filtre carburant](/filtre_carburant.mkd)<br>Liquide de frein<br>Filtre à air|
-| 190 000     |  [Vidange moteur + Filtre Vanos](/vidange_moteur.mkd)<br>[Filtre habitacle](/filtre_habitacle.mkd)<br>Prise de compression<br>[Filtre carburant](/filtre_carburant.mkd)<br>Liquide de refroidissement|
-| 200 000     |  [Vidange moteur + Filtre Vanos](/vidange_moteur.mkd)<br>[Filtre habitacle](/filtre_habitacle.mkd)<br>Prise de compression<br>[Filtre carburant](/filtre_carburant.mkd)<br>Bougies<br>[Vidange boite](/vidange_boite.mkd)<br>[Vidange pont](/vidange_pont.mkd)<br>Réglage jeu de soupape<br>Liquide de frein<br>Filtre à air|
