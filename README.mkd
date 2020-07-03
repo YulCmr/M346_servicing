@@ -43,7 +43,7 @@ Coussinets conseillés tous les 100 000kms
 
 ## Docs et Manuels
 
-[Tous couples de serrage (English)](e46_m3_torque_spec_guide.pdf)
+[Tous couples de serrage (English)](e46_m3_torque_spec_guide.pdf) mot de passe : fbac
 
 [Manuel utilisateur coupé (English)](BMW-E46-Pre-LCI-M3-Coupe-owners-manual.pdf)
 
