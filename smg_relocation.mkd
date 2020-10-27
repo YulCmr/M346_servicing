@@ -12,8 +12,6 @@ Les pièces nécessaires sont les suivantes :
 - [KKS LKS 1,5 ELA, 18 pole, Round Plug, Code A, Standard BMW+ZF](https://www.finjector.com/eng/kks_lks_1_5_ela_18_pole_round_plug_code_a_standard_bmw_zf-p-264395-136)  
 - [KKS LKS 1,5 ELA, 18 pole, Code A, Standard BMW+ZF](https://www.finjector.com/eng/kks_lks_1_5_ela_18_pole_code_a_standard_bmw_zf-p-264343-136)
 
-[Kit complet avec cosses et caoutchoucs](https://www.finjector.com/eng/18_pole_round_connector_pair_0_5_1_0_mm_silver_plated_terminals_1_5_mm-p-522182-236)
-
 #### Cosses
 
 
@@ -23,6 +21,7 @@ Les pièces nécessaires sont les suivantes :
 | Cosse mâle commande | [0.75 - 1 mm², Round Male Pin, Silver-plated, Ø 1.5 mm (50253298)](https://www.finjector.com/eng/kks_lks_1_5_ela_0_75_1_mm_round_male_pin_silver_plated_o_1_5_mm-p-264325) | 13 |
 | Cosse femelle moteur | [1- 2.5 mm², Round Female Terminal, Silver-plated, Ø 1,5 mm (50253283)](https://www.finjector.com/eng/kks_lks_1_5_ela_1_2_5_mm_round_female_terminal_silver_plated_o_1_5_mm-p-264318) | 2 |
 | Cosse mâle moteur | [1- 2.5 mm², Round Male Pin, Silver-plated, Ø 1,5 mm, (50253299 )](https://www.finjector.com/eng/kks_lks_1_5_ela_1_2_5_mm_round_male_pin_silver_plated_o_1_5_mm-p-264326) | 2 |
+| Caoutchoucs d'étanchéité |  [Wire seal, KKS LKS 1.5 ELA-U, 0.25 - 1 mm², Ø 4.4 - 4.7 mm](https://www.finjector.com/eng/wire_seal_kks_lks_1_5_ela_u_0_25_1_mm_o_4_4_4_7_mm_gray-p-521193-252) | 30 |
 
 #### Câblage
 - 0.75mm2 pour les fils de commande  
