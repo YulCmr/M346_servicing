@@ -14,6 +14,16 @@ Les pièces nécessaires sont les suivantes :
 
 [Kit complet avec cosses et caoutchoucs](https://www.finjector.com/eng/18_pole_round_connector_pair_0_5_1_0_mm_silver_plated_terminals_1_5_mm-p-522182-236)
 
+#### Cosses
+
+
+| Nom | Ref + lien | Qté minimum |
+|-----|-----|-----|
+| Cosse femelle commande | [0.5-1 mm², Round Female Terminal, Ø 1.5 mm, Silver-plated (50253282)](https://www.finjector.com/eng/kks_lks_1_5_ela_0_5_1_mm_round_female_terminal_o_1_5_mm_silver_plated-p-264317) | 13 |
+| Cosse mâle commande | [0.75 - 1 mm², Round Male Pin, Silver-plated, Ø 1.5 mm (50253298)](https://www.finjector.com/eng/kks_lks_1_5_ela_0_75_1_mm_round_male_pin_silver_plated_o_1_5_mm-p-264325) | 13 |
+| Cosse femelle moteur | [1- 2.5 mm², Round Female Terminal, Silver-plated, Ø 1,5 mm (50253283)](https://www.finjector.com/eng/kks_lks_1_5_ela_1_2_5_mm_round_female_terminal_silver_plated_o_1_5_mm-p-264318) | 2 |
+| Cosse mâle moteur | [1- 2.5 mm², Round Male Pin, Silver-plated, Ø 1,5 mm, (50253299 )](https://www.finjector.com/eng/kks_lks_1_5_ela_1_2_5_mm_round_male_pin_silver_plated_o_1_5_mm-p-264326) | 2 |
+
 #### Câblage
 - 0.75mm2 pour les fils de commande  
 - 1.5mm2 pour l'alimentation du moteur
