@@ -1,0 +1,27 @@
+# Déplacement bloc pompe SMG (SMG Relocation)
+
+Les pièces nécessaires sont les suivantes :
+- Rallonge faisceau
+- 4 durites
+- Support pompe (Burkhart ?)
+- Bocal CSL
+
+## Rallonge faisceau
+
+#### Connecteurs
+- [KKS LKS 1,5 ELA, 18 pole, Round Plug, Code A, Standard BMW+ZF](https://www.finjector.com/eng/kks_lks_1_5_ela_18_pole_round_plug_code_a_standard_bmw_zf-p-264395-136)  
+- [KKS LKS 1,5 ELA, 18 pole, Code A, Standard BMW+ZF](https://www.finjector.com/eng/kks_lks_1_5_ela_18_pole_code_a_standard_bmw_zf-p-264343-136)
+
+[Kit complet avec cosses et caoutchoucs](https://www.finjector.com/eng/18_pole_round_connector_pair_0_5_1_0_mm_silver_plated_terminals_1_5_mm-p-522182-236)
+
+#### Câblage
+- 0.75mm2 pour les fils de commande  
+- 1.5mm2 pour l'alimentation du moteur
+
+## Durites
+
+4 durites aux specs suivantes :
+
+![durites](pictures/durites.PNG)
+
+Capture d'écran du configurateur [probrake.de](https://www.probrake.de/Stahlflex-Konfigurator-Auto-Bremsleitung-Kupplungsleitung-nach-Ihren-Angaben-Sonderanfertigung-mit-TUeV-Gutachten)

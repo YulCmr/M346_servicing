@@ -60,6 +60,7 @@ Version Pre Alpha, certains prix et tutos manquent encore.
 Pour en faire un pdf, ouvrir le fichier généré "plan_entretien.md" avec l'application [Typora](https://typora.io/#windows) et extraire vers pdf : File -> Export -> PDF
 
 ![generateur_2](/pictures/generateur_2.jpg)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwMjg1ODgyXX0=
--->
+
+## Déplacer bloc pompe SMG dans le bac batterie AVD
+
+[Information & pièces](smg_relocation.mkd)
