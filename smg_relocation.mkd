@@ -9,19 +9,19 @@ Les pièces nécessaires sont les suivantes :
 ## Rallonge faisceau
 
 #### Connecteurs
-- [KKS LKS 1,5 ELA, 18 pole, Round Plug, Code A, Standard BMW+ZF](https://www.finjector.com/eng/kks_lks_1_5_ela_18_pole_round_plug_code_a_standard_bmw_zf-p-264395-136){:target="_blank"}  
-- [KKS LKS 1,5 ELA, 18 pole, Code A, Standard BMW+ZF](https://www.finjector.com/eng/kks_lks_1_5_ela_18_pole_code_a_standard_bmw_zf-p-264343-136){:target="_blank"}
+- [KKS LKS 1,5 ELA, 18 pole, Round Plug, Code A, Standard BMW+ZF](https://www.finjector.com/eng/kks_lks_1_5_ela_18_pole_round_plug_code_a_standard_bmw_zf-p-264395-136)  
+- [KKS LKS 1,5 ELA, 18 pole, Code A, Standard BMW+ZF](https://www.finjector.com/eng/kks_lks_1_5_ela_18_pole_code_a_standard_bmw_zf-p-264343-136)
 
 #### Cosses
 
 
 | Nom | Ref + lien | Qté minimum |
 |-----|-----|-----|
-| Cosse femelle commande | [0.5-1 mm², Round Female Terminal, Ø 1.5 mm, Silver-plated (50253282)](https://www.finjector.com/eng/kks_lks_1_5_ela_0_5_1_mm_round_female_terminal_o_1_5_mm_silver_plated-p-264317){:target="_blank"} | 13 |
-| Cosse mâle commande | [0.75 - 1 mm², Round Male Pin, Silver-plated, Ø 1.5 mm (50253298)](https://www.finjector.com/eng/kks_lks_1_5_ela_0_75_1_mm_round_male_pin_silver_plated_o_1_5_mm-p-264325){:target="_blank"} | 13 |
-| Cosse femelle moteur | [1- 2.5 mm², Round Female Terminal, Silver-plated, Ø 1,5 mm (50253283)](https://www.finjector.com/eng/kks_lks_1_5_ela_1_2_5_mm_round_female_terminal_silver_plated_o_1_5_mm-p-264318){:target="_blank"} | 2 |
-| Cosse mâle moteur | [1- 2.5 mm², Round Male Pin, Silver-plated, Ø 1,5 mm, (50253299 )](https://www.finjector.com/eng/kks_lks_1_5_ela_1_2_5_mm_round_male_pin_silver_plated_o_1_5_mm-p-264326){:target="_blank"} | 2 |
-| Caoutchoucs d'étanchéité |  [Wire seal, KKS LKS 1.5 ELA-U, 0.25 - 1 mm², Ø 4.4 - 4.7 mm](https://www.finjector.com/eng/wire_seal_kks_lks_1_5_ela_u_0_25_1_mm_o_4_4_4_7_mm_gray-p-521193-252){:target="_blank"} | 30 |
+| Cosse femelle commande | [0.5-1 mm², Round Female Terminal, Ø 1.5 mm, Silver-plated (50253282)](https://www.finjector.com/eng/kks_lks_1_5_ela_0_5_1_mm_round_female_terminal_o_1_5_mm_silver_plated-p-264317) | 13 |
+| Cosse mâle commande | [0.75 - 1 mm², Round Male Pin, Silver-plated, Ø 1.5 mm (50253298)](https://www.finjector.com/eng/kks_lks_1_5_ela_0_75_1_mm_round_male_pin_silver_plated_o_1_5_mm-p-264325) | 13 |
+| Cosse femelle moteur | [1- 2.5 mm², Round Female Terminal, Silver-plated, Ø 1,5 mm (50253283)](https://www.finjector.com/eng/kks_lks_1_5_ela_1_2_5_mm_round_female_terminal_silver_plated_o_1_5_mm-p-264318) | 2 |
+| Cosse mâle moteur | [1- 2.5 mm², Round Male Pin, Silver-plated, Ø 1,5 mm, (50253299 )](https://www.finjector.com/eng/kks_lks_1_5_ela_1_2_5_mm_round_male_pin_silver_plated_o_1_5_mm-p-264326) | 2 |
+| Caoutchoucs d'étanchéité |  [Wire seal, KKS LKS 1.5 ELA-U, 0.25 - 1 mm², Ø 4.4 - 4.7 mm](https://www.finjector.com/eng/wire_seal_kks_lks_1_5_ela_u_0_25_1_mm_o_4_4_4_7_mm_gray-p-521193-252) | 30 |
 
 #### Câblage
 - 0.75mm2 pour les fils de commande  
@@ -33,8 +33,8 @@ Les pièces nécessaires sont les suivantes :
 
 ![durites](pictures/durites.PNG)
 
-Capture d'écran du configurateur [probrake.de](https://www.probrake.de/Stahlflex-Konfigurator-Auto-Bremsleitung-Kupplungsleitung-nach-Ihren-Angaben-Sonderanfertigung-mit-TUeV-Gutachten){:target="_blank"}
+Capture d'écran du configurateur [probrake.de](https://www.probrake.de/Stahlflex-Konfigurator-Auto-Bremsleitung-Kupplungsleitung-nach-Ihren-Angaben-Sonderanfertigung-mit-TUeV-Gutachten)
 
 ## Support
 
-[Support Burkhart Engineering](https://burkhart-engineering.com/shop/bmw/bmw-m/bmw-m3/halter-set-smg-2-hydraulikeinheit-verlegung-bmw-e46-m3-inkl-csl/?target=_blank)
+[Support Burkhart Engineering](https://burkhart-engineering.com/shop/bmw/bmw-m/bmw-m3/halter-set-smg-2-hydraulikeinheit-verlegung-bmw-e46-m3-inkl-csl/)
