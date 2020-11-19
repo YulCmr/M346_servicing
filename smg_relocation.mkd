@@ -3,10 +3,12 @@
 Les pièces nécessaires sont les suivantes :
 - Rallonge faisceau
 - 4 durites
-- Support pompe (Burkhart ?)
+- Support pompe ([Burkhart](https://burkhart-engineering.com/en/shop/bmw/bmw-m/bmw-m3/halter-set-smg-2-hydraulikeinheit-verlegung-bmw-e46-m3-inkl-csl/))
 - Bocal CSL
 
 ## Rallonge faisceau
+
+[Solution Burkhart toute faite](https://burkhart-engineering.com/en/shop/bmw/bmw-ag/bmw-3er/verlaengerungskabelbaum-hydraulikeinheit-smg-2-18-polig-bmw-e46-m3-inkl-csl/)
 
 #### Connecteurs
 - [KKS LKS 1,5 ELA, 18 pole, Round Plug, Code A, Standard BMW+ZF](https://www.finjector.com/eng/kks_lks_1_5_ela_18_pole_round_plug_code_a_standard_bmw_zf-p-264395-136)  
@@ -28,6 +30,8 @@ Les pièces nécessaires sont les suivantes :
 - 1.5mm2 pour l'alimentation du moteur
 
 ## Durites
+
+[Solution Burkhart toute faite](https://burkhart-engineering.com/en/shop/bmw/bmw-m/bmw-m3/verlaengerungshydraulikleitungen-hydraulikeinheit-smg-2-bmw-e46-m3-inkl-csl/)
 
 4 durites aux specs suivantes :
 
