@@ -1,0 +1,73 @@
+# Conversion CSL
+
+#### DME
+
+| pièce | Fournisseur | ref | qté | prix | port | ok |
+|-------|-------|-----|-----|------|------|----|
+| Calculateur | es.wallapop | MSS54HP | 1 | 200 | N/A | ✓ |
+
+#### Boite à air
+
+| pièce | Fournisseur | ref | qté | prix | port | ok |
+|-------|-------|-----|-----|------|------|----|
+| Boite à air | CarboneM | N/A | 1 | 1600 | N/A | X |
+| Snorkel | BAP |  11 61 7 833 498 | 1 | 307.00 | 13.64 | X |
+
+#### Pièces périphériques
+
+| pièce | Fournisseur | ref | qté | prix | port | ok |
+|-------|-------|-----|-----|------|------|----|
+| reservoir CSL SMG | BAP | 21 53 2 282 549 | 1 | 76.80 | 13.64 | ✓ |
+| Support reservoir SMG | BAP | 41 14 7 896 136 | 1 | 15.36 | 13.64 | ✓ |
+| Vent hose | BAP | 11 15 7 833 649 | 1 | 25.00 | N/A | ✓ |
+| Air shut-off valve | BAP | 11 61 7 833 647 | 1 | 57.26 | N/A | ✓ |
+
+#### Capteurs
+
+| pièce | Fournisseur | ref | qté | prix | port | ok |
+|-------|-------|-----|-----|------|------|----|
+| MAP | autodoc | 0 261 230 101 | 1 | 45.50 | 8.29 | ✓ |
+| IAT | autodoc | 32679 | 1 | 12.00 | N/A  | ✓ |
+| Faisceau MAP | eBay | N/A | 1 | 10.61 | 5 | ✓ |
+| Faisceau IAT | eBay | N/A | 1 | 11.75 | N/A | ✓ |
+| Support MAP | Youtube | N/A | 1 | 25 | N/A | ✓ |
+
+#### Direction
+
+| pièce | Fournisseur | ref | qté | prix | port | ok |
+|-------|-------|-----|-----|------|------|----|
+| Steering Rack | eBay | 07 85 2 974 712  | 1 | 70.00 | 12.00 | ✓ |
+
+# Freinage
+
+#### Etriers
+
+| pièce | Fournisseur | ref | qté | prix | port | ok |
+|-------|-------|-----|-----|------|------|----|
+| étriers av Aston DB9 | Whatsapp/eBay | 20.8427.03 / 20.8427.04 | 1 | 450 | N/A | ✓ |
+| étriers ar Porsche 996 | ?? | 996.352.421 / 996.352.422 | 1 | ?? | ?? | X |
+| Cales étriers Aston | CarboneM | N/A | 1 | 200 | N/A | X |
+| Durites étriers Aston | ?? | N/A | 2 | ?? | ?? | X |
+| Durites étriers Porsche | ?? | N/A | 2 | ?? | ?? | X |
+
+#### Plaquettes
+
+| pièce | Fournisseur | ref | qté | prix | port | ok |
+|-------|-------|-----|-----|------|------|----|
+| Plaquettes étriers Aston | ?? | N/A | 2 | ?? | ?? | X |
+| Plaquettes étriers Porsche | ?? | N/A | 2 | ?? | ?? | X |
+
+#### Disques
+
+| pièce | Fournisseur | ref | qté | prix | port | ok |
+|-------|-------|-----|-----|------|------|----|
+| Disques av M3 E9x | ?? | 34112283801 / 34112283802 | 1 | ?? | ?? | X |
+
+# Sièges
+
+| pièce | Fournisseur | ref | qté | prix | port | ok |
+|-------|-------|-----|-----|------|------|----|
+| Recaro Sportster CS conducteur | ?? | N/A | 1 | ?? | ?? | X |
+| Recaro Sportster CS passager | ?? | N/A | 1 | ?? | ?? | X |
+| Platines de montage MachtSchnell | ?? | N/A | 2 | ~250 | ?? | X |
+| Tapis de détection passager | ?? | ?? | 1 | ?? | ?? | X |
