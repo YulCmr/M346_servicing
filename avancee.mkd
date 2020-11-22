@@ -12,6 +12,7 @@
 |-------|-------|-----|-----|------|------|----|
 | Boite à air | CarboneM | N/A | 1 | 1600 | N/A | X |
 | Snorkel | BAP |  11 61 7 833 498 | 1 | 307.00 | 13.64 | ✓ |
+| Filtre à air (ITG) | ?? |  N/A | 1 | 85.00 | ?? | X |
 
 #### Pièces périphériques
 
