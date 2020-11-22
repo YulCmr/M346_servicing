@@ -11,7 +11,7 @@
 | pièce | Fournisseur | ref | qté | prix | port | ok |
 |-------|-------|-----|-----|------|------|----|
 | Boite à air | CarboneM | N/A | 1 | 1600 | N/A | X |
-| Snorkel | BAP |  11 61 7 833 498 | 1 | 307.00 | 13.64 | X |
+| Snorkel | BAP |  11 61 7 833 498 | 1 | 307.00 | 13.64 | ✓ |
 
 #### Pièces périphériques
 
