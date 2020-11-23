@@ -49,8 +49,8 @@
 | étriers ar Porsche 996 | ?? | 996.352.421 / 996.352.422 | 1 | ?? | ?? | X |
 | Cales étriers Aston | CarboneM | N/A | 1 | 200 | N/A | X |
 | Cales étriers Porsche | CarboneM | N/A | 1 | 200 | N/A | X |
-| Durites étriers Aston | CarboneM | N/A | 1 | 40 | ?? | X |
-| Durites étriers Porsche | CarboneM | N/A | 1 | 40 | ?? | X |
+| Durites étriers Aston | CarboneM | N/A | 1 | 40 | N/A | X |
+| Durites étriers Porsche | CarboneM | N/A | 1 | 40 | N/A | X |
 | Peinture | Morphic Epoxy Cholet | N/A | 4 | 50 | N/A | X |
 | Réfection étrier Aston | YM Motorsport ? | N/A | 1 | ?? | N/A | X |
 | Réfection étrier Porsche | YM Motorsport ? | N/A | 1 | ?? | N/A | X |
