@@ -32,11 +32,25 @@
 | Faisceau IAT | eBay | N/A | 1 | 11.75 | N/A | ✓ |
 | Support MAP | Youtube | N/A | 1 | 25 | N/A | ✓ |
 
-#### Direction
+#### Direction ZHP/CSL
 
 | pièce | Fournisseur | ref | qté | prix | port | ok |
 |-------|-------|-----|-----|------|------|----|
 | Steering Rack | eBay | 07 85 2 974 712  | 1 | 70.00 | 12.00 | ✓ |
+
+#### Malle (Bootlid)
+
+| pièce | Fournisseur | ref | qté | prix | port | ok |
+|-------|-------|-----|-----|------|------|----|
+| CSL Bootlid | BAP | 41 00 7 895 884  | 1 | 742.75 | 19.50 | ✓ |
+| Peinture | Ed | N/A  | 1 | 150.00 | N/A | ✓ |
+
+#### Diffuseur
+
+| pièce | Fournisseur | ref | qté | prix | port | ok |
+|-------|-------|-----|-----|------|------|----|
+| Diffuseur CSL Carbone | eBay | N/A | 1 | 199.00 | 14.50 | ✓ |
+| Peinture | Ed | N/A  | 1 | 00.00 | N/A | ✓ |
 
 # Freinage
 
