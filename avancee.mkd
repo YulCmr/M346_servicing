@@ -71,10 +71,25 @@
 
 #### Plaquettes
 
+##### Aston
+
 | pièce | Fournisseur | ref | qté | prix | port | ok |
 |-------|-------|-----|-----|------|------|----|
-| Plaquettes étriers Aston | ?? | N/A | 2 | ?? | ?? | X |
-| Plaquettes étriers Porsche | ?? | N/A | 2 | ?? | ?? | X |
+| Aston Brembo | autodoc | P 02 002 | 1 | 117.51 | ?? | X |
+| Audi Brembo | autodoc | P 85 116 | 1 | 89.72 | ?? | X |
+| Audi Brembo | autodoc | P 85 159 | 1 | 103.29 | ?? | X |
+
+| Ref | Width (mm) | Height (mm) | Thickness (mm) | Discs Thickness (mm) |
+|-----|------------|-------------|----------------|----------------------|
+| P 85 116 | 131.8 | 77.2 | 16 | 32/30 |
+| P 85 159 | 131.5 | 77.4 | 16.2 | 32/30 |
+| P 02 002 | 131.6 | 77.3 | 16.6 | 32/30 |
+
+##### Porsche
+
+| pièce | Fournisseur | ref | qté | prix | port | ok |
+|-------|-------|-----|-----|------|------|----|
+| Porsche Brembo | autodoc | P 65 008 | 1 | 30.79 | ?? | X |
 
 #### Disques
 
