@@ -69,6 +69,40 @@
 | Réfection étrier Aston | YM Motorsport ? | N/A | 1 | ?? | N/A | X |
 | Réfection étrier Porsche | YM Motorsport ? | N/A | 1 | ?? | N/A | X |
 
+Diamètre pistons :
+- Aston : 44/40mm
+- Porsche : 30/28mm
+
+#### Réfection Stoptech (Brembo est hors de prix !)
+
+| Pièce | Dimension | ref |
+|-------|-----------|-----|
+| Dust Boot | 28mm | 750.99000 |
+| Dust Boot | 30mm | 750.99001 |
+| Dust Boot | 40mm | 750.99005 |
+| Dust Boot | 44mm | 750.99007 |
+| Pressure Seal | 28mm | 753.99000 |
+| Pressure Seal | 30mm | 753.99001 |
+| Pressure Seal | 40mm | 753.99005 |
+| Pressure Seal | 44mm | 753.99007 |
+| kit pour 2 piston (2xDust + 2xSeal) | 28mm | 143.99028K |
+| kit pour 2 piston (2xDust + 2xSeal) | 30mm | 143.99030K |
+| kit pour 2 piston (2xDust + 2xSeal) | 40mm | 143.99040K |
+| kit pour 2 piston (2xDust + 2xSeal) | 44mm | 143.99044K |
+
+Commande pour l'avant :
+2x 143.99040K
+2x 143.99044K
+
+Kit complet 2 étriers AV (65€) :
+https://www.ebay.fr/itm/40mm-44mm-Stoptech-Brembo-Front-Brake-Caliper-Rebuild-Kits-Qty-2-/263824102373
+
+Commande pour l'arrière :
+2x 143.99028K
+2x 143.99030K
+
+Kit complet 2 étriers AR (54€) :https://www.ebay.fr/itm/28mm-30mm-Stoptech-Brembo-Front-Brake-Caliper-Rebuild-Kits-Qty-2/263561952471
+
 ### Plaquettes
 
 #### Aston
@@ -78,12 +112,16 @@
 | Aston Brembo | autodoc | P 02 002 | 1 | 117.51 | ?? | X |
 | Audi Brembo | autodoc | P 85 116 | 1 | 89.72 | ?? | X |
 | Audi Brembo | autodoc | P 85 159 | 1 | 103.29 | ?? | X |
+| Renault Brembo | autodoc | P 54 040 | 1 | 27.69 | ?? |X |
 
-| Ref | Width (mm) | Height (mm) | Thickness (mm) | Discs Thickness (mm) |
+
+| Ref | Width (mm) | Height (mm) | Thickness (mm) | OEM Discs Thickness (mm) |
 |-----|------------|-------------|----------------|----------------------|
+| P 54 040 | 131.6 | 77.2 | 16 | 28/26 |
 | P 85 116 | 131.8 | 77.2 | 16 | 32/30 |
 | P 85 159 | 131.5 | 77.4 | 16.2 | 32/30 |
 | P 02 002 | 131.6 | 77.3 | 16.6 | 32/30 |
+
 
 M3 E92 Disc : 30/28.4 mm
 
