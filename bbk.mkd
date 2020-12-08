@@ -1,0 +1,87 @@
+# Freinage
+
+### Etriers
+
+| pièce | ref |
+|-------|----|
+| étriers av Aston DB9 | 20.8427.03 / 20.8427.04 |
+| étriers av RS3 8P / TTRS 8J | 8J0615107 / 8J0615108 |
+| étriers av Mégane 3RS | 410116043R / 410113693R |
+| étriers ar Porsche 996 | 996.352.421 / 996.352.422 |
+| Cales étriers Aston | Carbone M |
+| Cales étriers Renault | Carbone M |
+| Cales étriers Porsche | Carbone M |
+| Durites étriers Aston | Carbone M ou durites HEL |
+| Durites étriers Porsche | Carbone M ou durites HEL |
+
+Diamètre pistons :
+- Aston/Audi : 44/40mm
+- Porsche 421/422 : 30/28mm
+- Megane 3 RS : 40/40mm
+
+Les étriers Audi avant et Porsche Arrière doivent voir leur montage inversé (comprendre, échanger vis de purge et durite)
+
+#### Réfection Stoptech (Brembo est hors de prix !)
+
+| Pièce | Dimension | ref |
+|-------|-----------|-----|
+| Dust Boot | 28mm | 750.99000 |
+| Dust Boot | 30mm | 750.99001 |
+| Dust Boot | 40mm | 750.99005 |
+| Dust Boot | 44mm | 750.99007 |
+| Pressure Seal | 28mm | 753.99000 |
+| Pressure Seal | 30mm | 753.99001 |
+| Pressure Seal | 40mm | 753.99005 |
+| Pressure Seal | 44mm | 753.99007 |
+| kit pour 2 piston (2xDust + 2xSeal) | 28mm | 143.99028K |
+| kit pour 2 piston (2xDust + 2xSeal) | 30mm | 143.99030K |
+| kit pour 2 piston (2xDust + 2xSeal) | 40mm | 143.99040K |
+| kit pour 2 piston (2xDust + 2xSeal) | 44mm | 143.99044K |
+
+### Plaquettes
+
+#### Aston/Audi/M3RS
+
+| pièce | Fournisseur | ref | qté | prix |
+|-------|-------------|-----|-----|------|
+| Brembo (pour DB9) | autodoc | P 02 002 | 1 | 117.51 |
+| Brembo (pour RS3) | autodoc | P 85 116 | 1 | 89.72 |
+| Brembo (pour RS3) | autodoc | P 85 159 | 1 | 103.29 |
+| Brembo (pour M3RS) | autodoc | P 54 040 | 1 | 27.69 |
+| Brembo HP2000 (M3RS) | ?? | 07.B314.48 | 1 | 133 |
+| Renault sport (brembo) | Renault | 41 06 033 03R | 1 | 65 |
+| Renault sport CUP (brembo) | Renault | 41 06 093 17R | 1 | 65 |
+
+| Ref | Width (mm) | Height (mm) | Thickness (mm) |
+|-----|------------|-------------|----------------|
+| P 54 040 | 131.6 | 77.2 | 16 |
+| P 85 116 | 131.8 | 77.2 | 16 |
+| P 85 159 | 131.5 | 77.4 | 16.2 |
+| P 02 002 | 131.6 | 77.3 | 16.6 |
+| 07.B314.48 | 131.6 | 77.2 | 16 |
+
+Privilégier les plaquettes Renault, meilleur rapport qualité/prix (mais pas de témoin d'usure)
+
+#### Porsche (996 C2/C4 non S)
+
+| pièce | Fournisseur | ref | qté | prix |
+|-------|-------|-----|-----|------|
+| Brembo | autodoc | P 65 008 | 1 | 30.79 |
+| Brembo HP2000 | ?? | 07.B315.14 | 1 | 114 |
+| Porsche | Porsche | 986.352.939.10 | 1 | 150 |
+| Textar (Porsche OEM) | autodoc | 2179203 | 1 | 56 |
+
+| Ref | Width (mm) | Height (mm) | Thickness (mm) |
+|-----|------------|-------------|----------------|
+| P 65 008 | 112.0 | 73.0 | 15.5 |
+| 07.B315.14 | 112.0 | 73.0 | 15.5 |
+| 2179203 | 112.0 | 73.0 | 15.5 |
+
+### Disques
+
+| pièce | ref | diamètre | épaisseur (Max/Min) |
+|-------|-----|----------|---------------------|
+| Disques av M3 E9x | 34112283801 / 34112283802 | 360 | 30/28.4 |
+| Disques av M3 E46 | 34112282801 / 34112282802 | 325 | 28/26.4 |
+| Disques av M3 E46 CSL | 34112282445 / 34112282446	| 345 | 28/26.4 |
+| Disques ar M3 E46/CSL | 34212282303 / 34212282304 | 328 | 20/18.4 |
