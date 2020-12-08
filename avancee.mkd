@@ -107,11 +107,11 @@ Kit complet 2 étriers AR (54€) :https://www.ebay.fr/itm/28mm-30mm-Stoptech-Br
 
 | pièce | Fournisseur | ref | qté | prix | port | ok |
 |-------|-------|-----|-----|------|------|----|
-| Aston Brembo | autodoc | P 02 002 | 1 | 117.51 | ?? | X |
-| Audi Brembo | autodoc | P 85 116 | 1 | 89.72 | ?? | X |
-| Audi Brembo | autodoc | P 85 159 | 1 | 103.29 | ?? | X |
-| Renault Brembo | autodoc | P 54 040 | 1 | 27.69 | ?? | X |
-| Brembo HP2000 | | 07.B314.48 | 1 | 133 | ?? | X |
+| Brembo (pour DB9) | autodoc | P 02 002 | 1 | 117.51 | ?? | X |
+| Brembo (pour RS3) | autodoc | P 85 116 | 1 | 89.72 | ?? | X |
+| Brembo (pour RS3) | autodoc | P 85 159 | 1 | 103.29 | ?? | X |
+| Brembo (pour M3RS) | autodoc | P 54 040 | 1 | 27.69 | ?? | X |
+| Brembo HP2000 (M3RS) | ?? | 07.B314.48 | 1 | 133 | ?? | X |
 | Renault sport (brembo) | Renault | 41 06 033 03R | 1 | 65 | ?? | X |
 | Renault sport CUP (brembo) | Renault | 41 06 093 17R | 1 | 65 | ?? | X |
 
@@ -122,29 +122,25 @@ Kit complet 2 étriers AR (54€) :https://www.ebay.fr/itm/28mm-30mm-Stoptech-Br
 | P 85 159 | 131.5 | 77.4 | 16.2 |
 | P 02 002 | 131.6 | 77.3 | 16.6 |
 | 07.B314.48 | 131.6 | 77.2 | 16 |
-| 410603303R | |||
-| 410609317R | |||
 
-Reco Brembo Sport (DB9 et M3RS) : 07.B314.48
+Choix final : RS 41 06 033 03R OU RS CUP 41 06 093 17R
 
 #### Porsche (996 base model)
 
 | pièce | Fournisseur | ref | qté | prix | port | ok |
 |-------|-------|-----|-----|------|------|----|
-| Porsche Brembo | autodoc | P 65 008 | 1 | 30.79 | ?? | X |
-| Brembo HP2000 | | 07.B315.14 | 1 | 114 | ?? | X |
-| Brembo HP2000 | | 07.B314.15 | 1 | 140 | ?? | X |
+| Brembo | autodoc | P 65 008 | 1 | 30.79 | ?? | X |
+| Brembo HP2000 | ?? | 07.B315.14 | 1 | 114 | ?? | X |
+| Porsche | Porsche | 986.352.939.10 | 1 | 150 | ?? | X |
+| Textar (Porsche OEM) | autodoc | 2179203 | 1 | 56 | ?? | X |
 
 | Ref | Width (mm) | Height (mm) | Thickness (mm) |
 |-----|------------|-------------|----------------|
 | P 65 008 | 112.0 | 73.0 | 15.5 |
 | 07.B315.14 | 112.0 | 73.0 | 15.5 |
-| 07.B314.15 | 121.0 | 90.1 | 17 |
+| 2179203 | 112.0 | 73.0 | 15.5 |
 
-Reco Brembo Sport (996) : 07.B315.14 pour disque de 299mm
-Reco Brembo Sport (996) : 07.B314.15 pour disque de 330mm
-
-Disque OEM M3 en 280mm donc -> 07.B315.14 (la grande plaquette risque de dépasser du disque ??)
+Choix final : Textar 2179203
 
 M3 E46 Disc : 20/18.4 mm
 
