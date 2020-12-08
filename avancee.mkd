@@ -60,6 +60,7 @@
 | pièce | Fournisseur | ref | qté | prix | port | ok |
 |-------|-------|-----|-----|------|------|----|
 | étriers av Aston DB9 | Whatsapp/eBay | 20.8427.03 / 20.8427.04 | 1 | 450 | N/A | ✓ |
+| étriers av RS3 8P / TTRS 8J | N/A | 8J0615107 / 8J0615108 | 1 | ?? | N/A | X |
 | étriers ar Porsche 996 | ?? | 996.352.421 / 996.352.422 | 1 | ?? | ?? | X |
 | Cales étriers Aston | CarboneM | N/A | 1 | 200 | N/A | X |
 | Cales étriers Porsche | CarboneM | N/A | 1 | 200 | N/A | X |
@@ -68,9 +69,11 @@
 | Peinture | Morphic Epoxy Cholet | N/A | 4 | 50 | N/A | X |
 
 Diamètre pistons :
-- Aston : 44/40mm
+- Aston/Audi : 44/40mm
 - Porsche : 30/28mm
-- Megane 3 RS : 40/40mm (informational purpose only)
+- Megane 3 RS : 40/40mm
+
+Les étriers Audi avant et Porsche Arrière doivent voir leur montage inversé (comprendre, échanger vis de purge et durite)
 
 #### Réfection Stoptech (Brembo est hors de prix !)
 
