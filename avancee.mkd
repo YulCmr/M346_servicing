@@ -70,6 +70,7 @@
 Diamètre pistons :
 - Aston : 44/40mm
 - Porsche : 30/28mm
+- Megane 3 RS : 40/40mm (informational purpose only)
 
 #### Réfection Stoptech (Brembo est hors de prix !)
 
