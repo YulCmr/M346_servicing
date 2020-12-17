@@ -27,7 +27,7 @@ Les pièces nécessaires sont les suivantes :
 
 #### Câblage
 - 0.75mm2 pour les fils de commande  
-- 1.5mm2 pour l'alimentation du moteur
+- 5mm2 pour l'alimentation du moteur
 
 ## Durites
 
