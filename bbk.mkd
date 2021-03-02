@@ -54,9 +54,9 @@ Les étriers Audi avant et Porsche Arrière doivent voir leur montage inversé (
 | Brembo (pour M3RS) | autodoc | P 54 040 | 1 | 27 |
 | Brembo (pour M2RS) | autodoc | P 68 036 | 1 | 36 |
 | Brembo HP2000 (M3RS) | ?? | 07.B314.48 | 1 | 133 |
-| Renault sport M3RS (by brembo) | Renault | 41 06 033 03R | 1 | 190 |
-| Renault sport M3RS CUP (by brembo) | Renault | 41 06 093 17R | 1 | 190 |
-| Renault sport M2RS (by brembo) | Renault |  7701208218 (07.8954.40/07.8954.41) | 1 | 53 |
+| Renault sport M3RS (by brembo) | Renault | 41 06 093 17R | 1 | 90 |
+| Renault sport M3RS CUP  (by brembo) | Renault | 41 06 033 03R (07.8715.15.44/07.8715.15.45)  | 1 | 100 |
+| Renault sport M2RS (by brembo) | Renault |  7701208218 (07.8954.40/07.8954.41) | 1 | 67 |
 
 | Ref | Width (mm) | Height (mm) | Thickness (mm) |
 |-----|------------|-------------|----------------|
@@ -66,7 +66,10 @@ Les étriers Audi avant et Porsche Arrière doivent voir leur montage inversé (
 | P 02 002 | 131.6 | 77.3 | 16.6 |
 | 07.B314.48 | 131.6 | 77.2 | 16 |
 
+Montage DB9 AV/AR:
 Privilégier les plaquettes Renault, meilleur rapport qualité/prix (mais pas de témoin d'usure)
+AV: https://eurofrance24.com/brake-pads-front-original-renault-megane-rs-ii-iii-brembo-410603303r.html
+AR: https://eurofrance24.com/catalog/product/view/id/87144/s/brake-pads-original-front-renault-clio-iii-rs-megane-ii-rs-7701208218/
 
 #### Porsche (996 C2/C4 non S)
 
