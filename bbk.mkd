@@ -54,9 +54,9 @@ Les étriers Audi avant et Porsche Arrière doivent voir leur montage inversé (
 | Brembo (pour M3RS) | autodoc | P 54 040 | 1 | 27 |
 | Brembo (pour M2RS) | autodoc | P 68 036 | 1 | 36 |
 | Brembo HP2000 (M3RS) | ?? | 07.B314.48 | 1 | 133 |
-| Renault sport M3RS (by brembo) | Renault | 41 06 033 03R | 1 | 65 |
-| Renault sport M3RS CUP (by brembo) | Renault | 41 06 093 17R | 1 | 65 |
- Renault sport M2RS (by brembo) | Renault |  7701208218 (07.8954.40/07.8954.41) | 1 | 53 |
+| Renault sport M3RS (by brembo) | Renault | 41 06 033 03R | 1 | 190 |
+| Renault sport M3RS CUP (by brembo) | Renault | 41 06 093 17R | 1 | 190 |
+| Renault sport M2RS (by brembo) | Renault |  7701208218 (07.8954.40/07.8954.41) | 1 | 53 |
 
 | Ref | Width (mm) | Height (mm) | Thickness (mm) |
 |-----|------------|-------------|----------------|
