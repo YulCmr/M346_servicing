@@ -7,7 +7,9 @@
 | étriers av Aston DB9 | 20.8427.03 / 20.8427.04 |
 | étriers av RS3 8P / TTRS 8J | 8J0615107 / 8J0615108 |
 | étriers av Mégane 3RS | 410116043R / 410113693R |
+| étriers av Mégane 2RS | 410118514R / 410015432R  |
 | étriers ar Porsche 996 | 996.352.421 / 996.352.422 |
+| étriers ar Aston DB9 | ???? |
 | Cales étriers Aston | Carbone M |
 | Cales étriers Renault | Carbone M |
 | Cales étriers Porsche | Carbone M |
@@ -15,9 +17,11 @@
 | Durites étriers Porsche | Carbone M ou durites HEL |
 
 Diamètre pistons :
-- Aston/Audi : 44/40mm
+- Aston avant/Audi RS3 : 44/40mm
 - Porsche 421/422 : 30/28mm
 - Megane 3 RS : 40/40mm
+- Aston arrière : 36/34mm
+- Megane 2 RS : ??/??
 
 Les étriers Audi avant et Porsche Arrière doivent voir leur montage inversé (comprendre, échanger vis de purge et durite)
 
@@ -44,13 +48,15 @@ Les étriers Audi avant et Porsche Arrière doivent voir leur montage inversé (
 
 | pièce | Fournisseur | ref | qté | prix |
 |-------|-------------|-----|-----|------|
-| Brembo (pour DB9) | autodoc | P 02 002 | 1 | 117.51 |
-| Brembo (pour RS3) | autodoc | P 85 116 | 1 | 89.72 |
-| Brembo (pour RS3) | autodoc | P 85 159 | 1 | 103.29 |
-| Brembo (pour M3RS) | autodoc | P 54 040 | 1 | 27.69 |
+| Brembo (pour DB9) | autodoc | P 02 002 | 1 | 117 |
+| Brembo (pour RS3) | autodoc | P 85 116 | 1 | 89 |
+| Brembo (pour RS3) | autodoc | P 85 159 | 1 | 103 |
+| Brembo (pour M3RS) | autodoc | P 54 040 | 1 | 27 |
+| Brembo (pour M2RS) | autodoc | P 68 036 | 1 | 36 |
 | Brembo HP2000 (M3RS) | ?? | 07.B314.48 | 1 | 133 |
-| Renault sport (brembo) | Renault | 41 06 033 03R | 1 | 65 |
-| Renault sport CUP (brembo) | Renault | 41 06 093 17R | 1 | 65 |
+| Renault sport M3RS (by brembo) | Renault | 41 06 033 03R | 1 | 65 |
+| Renault sport M3RS CUP (by brembo) | Renault | 41 06 093 17R | 1 | 65 |
+ Renault sport M2RS (by brembo) | Renault |  7701208218 (07.8954.40/07.8954.41) | 1 | 53 |
 
 | Ref | Width (mm) | Height (mm) | Thickness (mm) |
 |-----|------------|-------------|----------------|
